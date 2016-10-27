@@ -1,0 +1,9 @@
+/opt/apache-tomcat-8.0.38/logs/catalina.out {
+	copytruncate   
+	daily
+        rotate 7   
+	dateext
+	compress  
+	missingok   
+        size 1M  
+}
