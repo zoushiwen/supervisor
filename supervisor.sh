@@ -9,7 +9,7 @@
 # description:  supervisor is a process control utility.  It has a web based
 #               xmlrpc interface as well as a few other nifty features.
 # processname:  supervisord
-# config: /etc/supervisor/supervisord.conf
+# config: /etc/supervisord.conf
 # pidfile: /var/run/supervisord.pid
 #
 
